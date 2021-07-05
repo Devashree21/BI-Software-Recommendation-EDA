@@ -23,6 +23,6 @@ This dataset contains 100 entries and 11 attributes related to BI Software Recom
 
 **4) Which tool and which libraries have been used in this project?**
 
-This project has been entirely completed in Jupyter IDE with Python 3.8.5 and the model has been trained using scikit-learn framework.
+This project has been entirely completed in Jupyter IDE with Python 3.8.5.
 
 Libraries used: Pandas, NumPy, Matplotlib and Seaborn
